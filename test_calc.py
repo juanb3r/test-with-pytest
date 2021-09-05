@@ -6,7 +6,7 @@ def test_suma():
     numero_de_prueba = 4
 
     # Act
-    numero_obtenido = calculador.suma(2, 2)
+    numero_obtenido = calculador.suma(4, 2)
 
     # Assert
     assert numero_de_prueba == numero_obtenido
